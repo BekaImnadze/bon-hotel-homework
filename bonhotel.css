@@ -76,6 +76,12 @@
     border-radius: 10px;
 }
 
+.button:hover {
+    color:rgba(223, 170, 91, 1);
+    background-color:#fff;
+}
+    
+
 .secondary-title {
     font-family: "Ubuntu", sans-serif;
     font-size: 45px;
